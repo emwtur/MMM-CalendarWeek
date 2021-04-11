@@ -1,0 +1,28 @@
+{
+  "name": "mmm-calendarweek",
+  "version": "2.0.0",
+  "description": "Calendar per week",
+  "main": "MMM-CalendarWeek.js",
+  "scripts": {
+    "test": "no test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emwtur/MMM-CalendarWeek.git"
+  },
+  "keywords": [
+    "MagicMirror"
+  ],
+  "author": "emwtur@github.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emwtur/MMM-CalendarWeek/issues"
+  },
+  "homepage": "https://github.com/emwtur/MMM-CalendarWeek#readme",
+  "dependencies": {
+    "ical-expander": "^2.0.0",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.23",
+    "valid-url": "^1.0.9"
+  }
+}
